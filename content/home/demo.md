@@ -25,8 +25,8 @@ subtitle = "If you torture the data long enough, it will confess everything."
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "white"
-  gradient_end = "white"
+  gradient_start = "#4bb4e3"
+  gradient_end = "#2b94c3"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -37,7 +37,7 @@ subtitle = "If you torture the data long enough, it will confess everything."
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["5px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
