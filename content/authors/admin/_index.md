@@ -20,8 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-courses:
-- Business Process
+interests:
+- Healthcare Industry
 - Data Analysis
 - Machine Learning
 
@@ -66,6 +66,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+siykim@uiowa.edu / 765-409-9692
+University of Iowa, Tipple College of Business; majoring in Business Analytics & Information Systems.
+Senior, graduating in Fall 2019.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a self-motivated and proactive person who challenges any goal-driven environment. I have a big desire to learn more about data science and how it is applied in the real business field. I strongly believe data analysis ability is an essential way to draw meaningful conclusions in the era of huge data and information. I would love to have an opportunity to share my experiences, skills, and goals with people with similar interests.
+
+After I graduate, I am looking forward to working as a Business / Data Analyst where I can contribute my knowledge with the highest quality and simultaneously develop it by working on influential and worthwhile projects.
