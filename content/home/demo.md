@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
-subtitle = ""
+title = "Shawn Siyeun Kim"
+subtitle = "If you torture the data long enough, it will confess everything."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -26,7 +26,7 @@ subtitle = ""
   
   # Background gradient.
   gradient_start = "white"
-  gradient_end = "ForestGreen"
+  gradient_end = "white"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
