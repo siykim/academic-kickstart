@@ -49,10 +49,10 @@ date_format = "Jan 2006"
   date_start = "2015-04-01"
   date_end = "2017-01-31"
   description = """
-  <br>
+  
  - Assisted police office tasks at the United State, China, and Japan embassy in South Korea.
  - Responsible for cross-training team members in all positions needed to run the squad efficiently and effectively
- -Performed a wide range of duties requiring strong organizational skills, analytical thinking, and persistence
+ - Performed a wide range of duties requiring strong organizational skills, analytical thinking, and persistence
   """
   
   [[experience]]
