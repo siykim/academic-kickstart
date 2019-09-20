@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/064a8547d40933500dc77e7366cb1cb58bf6609e"
   date_start = "2019-04-02"
   date_end = "2019-04-29"
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Learned techniques for data manipulation using mainly dplyr fucntions."
   
 [[item]]
   organization = "DataCamp"
@@ -36,6 +36,6 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/b80f2c959898f7362e2dee8d5ed8ca82efb5ec02"
   date_start = "2019-03-01"
   date_end = "2019-03-29"
-  description = ""
+  description = "Learned about conditional statements, loops, and vector functions."
 
 +++
