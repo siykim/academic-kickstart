@@ -30,7 +30,6 @@ date_format = "Jan 2006"
   * Analysing
   * Modelling
   * Deploying
-  * Modellling
   """
 
 [[experience]]
@@ -41,4 +40,17 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+  
+[[experience]]
+  title = "Auxiliary Police"
+  company = "Republic of Korea Army"
+  company_url = ""
+  location = "Seoul, South Korea"
+  date_start = "2015-04-01"
+  date_end = "2017-01-31"
+  description = """
+  Assisted police office tasks at the United State, China, and Japan embassy in South Korea.
+  Responsible for cross-training team members in all positions needed to run the squad efficiently and effectively
+  Performed a wide range of duties requiring strong organizational skills, analytical thinking, and persistence
+  """
 +++
