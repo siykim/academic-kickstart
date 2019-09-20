@@ -20,8 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- HealthCare Industry
+courses:
+- Business Process
 - Data Analysis
 - Machine Learning
 
@@ -31,10 +31,6 @@ education:
     institution: University of Iowa
     year: 2019
 
-courses:
-- Business Process
-- Data Analysis
-- Machine Learning
 
 
 # Social/Academic Networking
