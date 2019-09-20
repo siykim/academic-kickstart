@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Shawn Siyeun Kim"
+title = "**Shawn Siyeun Kim**"
 subtitle = "If you torture the data long enough, it will confess everything."
 
 [design]
