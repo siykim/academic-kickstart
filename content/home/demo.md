@@ -37,7 +37,7 @@ subtitle = "If you torture the data long enough, it will confess everything."
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0", "0", "50px", "0"]
+  padding = ["0", "0", "0", "0"]
 
 [advanced]
  # Custom CSS. 
